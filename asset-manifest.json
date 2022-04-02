@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/set-goals-app/static/css/main.519c79a1.chunk.css",
+    "main.js": "/set-goals-app/static/js/main.a0483e44.chunk.js",
+    "main.js.map": "/set-goals-app/static/js/main.a0483e44.chunk.js.map",
+    "runtime-main.js": "/set-goals-app/static/js/runtime-main.999b99ee.js",
+    "runtime-main.js.map": "/set-goals-app/static/js/runtime-main.999b99ee.js.map",
+    "static/js/2.f5017256.chunk.js": "/set-goals-app/static/js/2.f5017256.chunk.js",
+    "static/js/2.f5017256.chunk.js.map": "/set-goals-app/static/js/2.f5017256.chunk.js.map",
+    "index.html": "/set-goals-app/index.html",
+    "static/css/main.519c79a1.chunk.css.map": "/set-goals-app/static/css/main.519c79a1.chunk.css.map",
+    "static/js/2.f5017256.chunk.js.LICENSE.txt": "/set-goals-app/static/js/2.f5017256.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.999b99ee.js",
+    "static/js/2.f5017256.chunk.js",
+    "static/css/main.519c79a1.chunk.css",
+    "static/js/main.a0483e44.chunk.js"
+  ]
+}
